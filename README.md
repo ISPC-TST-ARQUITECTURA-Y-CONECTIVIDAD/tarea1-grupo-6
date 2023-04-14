@@ -1,5 +1,18 @@
 ![image](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea1-grupo-6/blob/main/Portada.jpg)
-# TRABAJO PRACTICO NRO 1   -  GRUPO 6
 
-![readme_0](https://user-images.githubusercontent.com/108839778/231943345-2d2e0dc6-0adc-4be7-90c7-77cb4a792d24.jpg)
+# ACTIVIDAD N° 1   -  GRUPO 6
 
+## Integrantes ##  
+1. [Andrés Montaño](https://github.com/maj3210) 
+
+2. [ Emma Gutierrez](https://github.com/Emygut)
+3. [Federico Birge](https://github.com/FedeBirge)
+4. [Leonardo Gonzalez](https://github.com/leolgonzalez)
+5. [Mario Gonzalez](https://github.com/mariogonzalezispc)
+6. [Pedro Rojo](https://github.com/tecnosisnet)
+
+
+![image](../../TST%202%C2%B0/Arquitectura%20y%20Conectividad/Semana%201/Actividad%20n1_page-0001.jpg)
+
+
+[def]: ../../TST%202%C2%B0/Arquitectura%20y%20Conectividad/Semana%201/1.png
