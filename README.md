@@ -11,8 +11,6 @@
 5. [Mario Gonzalez](https://github.com/mariogonzalezispc)
 6. [Pedro Rojo](https://github.com/tecnosisnet)
 
+![1](https://user-images.githubusercontent.com/109010330/232163829-d0706062-a86d-4773-9059-afbb79acf791.png)
+![2](https://user-images.githubusercontent.com/109010330/232163858-b79293ed-c52f-43db-869a-91fdd29ebed5.png)
 
-![image](../../TST%202%C2%B0/Arquitectura%20y%20Conectividad/Semana%201/Actividad%20n1_page-0001.jpg)
-
-
-[def]: ../../TST%202%C2%B0/Arquitectura%20y%20Conectividad/Semana%201/1.png
